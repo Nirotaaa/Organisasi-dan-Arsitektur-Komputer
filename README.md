@@ -1,5 +1,6 @@
 # Organisasi-dan-Arsitektur-Komputer
- Arsitektur dan Organisasi Komputer
+ 
+* Central Processing Unit(CPU)Arsitektur dan Organisasi Komputer
 
  Struktur Top Level Komputer
  
@@ -20,7 +21,6 @@
 2.
 
 ![Struktur Top Level](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/6aaab79a-0f6d-4755-b462-2df1298e2d90)
-* Central Processing Unit(CPU)
    Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
 * Main Memory
    Menyimpan Data.
