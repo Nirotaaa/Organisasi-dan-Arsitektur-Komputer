@@ -1,6 +1,6 @@
 # Organisasi-dan-Arsitektur-Komputer
  
-* Central Processing Unit(CPU)Arsitektur dan Organisasi Komputer
+ Arsitektur dan Organisasi Komputer
 
  Struktur Top Level Komputer
  
