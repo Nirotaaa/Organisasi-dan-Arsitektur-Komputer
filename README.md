@@ -5,14 +5,14 @@
 4. Operasi-Operasi Komputer
 
 1.
-=
+
 * Organisasi Komputer berkaitan erat dengan unit-unit operasional. Contohnya teknologi hardware, perangkat antarmuka, teknologi 
      memori, sistem memori, dan sinyal-sinyal kontrol.
    * Arsitektur Komputer berkaitan dengan atribut-atribut sistem komputer yang terkait dengan seorang programmer. Contohnya set 
      instruksi, aritmetika yg digunakan, teknik pengalamatan, dan mekanisme I/O.
 
 2.
-=
+
 ![Struktur Top Level](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/6aaab79a-0f6d-4755-b462-2df1298e2d90)
 * Central Processing Unit(CPU)
    Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
@@ -24,7 +24,7 @@
    Beberapa mekanisme komunikasi antara CPU, Memori utama dan Input/Output.
   
 3.
-=
+
 ![Struktur CPU drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/7142a681-45e8-4732-b49d-a38f4ff8067c)
 * Control Unit
   Mengontrol operasi CPU dan pada akhirnya mengontrol komputer.
@@ -36,7 +36,7 @@
   Sejumlah mekanisme komunikasi antara Control Unit, ALU dan Register.
 
 4.
-=
+
 Operasi 1
 
 Fungsi operasi pemindahan data.
