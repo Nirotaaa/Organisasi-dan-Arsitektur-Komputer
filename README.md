@@ -1,8 +1,8 @@
 # Organisasi-dan-Arsitektur-Komputer
-1. Arsitektur dan Organisasi Komputer
-2. Struktur Top Level Komputer
-3. Struktur Central Processing Unit
-4. Operasi-Operasi Komputer
+ Arsitektur dan Organisasi Komputer
+ Struktur Top Level Komputer
+ Struktur Central Processing Unit
+ Operasi-Operasi Komputer
 
 
 1.
