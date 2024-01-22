@@ -11,8 +11,7 @@
     Arsitektur Komputer berkaitan dengan atribut-atribut sistem komputer yang terkait dengan seorang programmer. Contohnya set 
     instruksi, aritmetika yg digunakan, teknik pengalamatan, dan mekanisme I/O.
 
-2. 
-![Struktur Top Level](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/6aaab79a-0f6d-4755-b462-2df1298e2d90)
+2. ![Struktur Top Level](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/6aaab79a-0f6d-4755-b462-2df1298e2d90)
 * Central Processing Unit(CPU)
    Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
 * Main Memory
@@ -22,8 +21,7 @@
 * System Interconnection
    Beberapa mekanisme komunikasi antara CPU, Memori utama dan Input/Output.
   
-3. 
-![Struktur CPU drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/7142a681-45e8-4732-b49d-a38f4ff8067c)
+3. ![Struktur CPU drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/7142a681-45e8-4732-b49d-a38f4ff8067c)
 * Control Unit
   Mengontrol operasi CPU dan pada akhirnya mengontrol komputer.
 * Arithmetic and Logic Unit 
