@@ -6,10 +6,10 @@
 
 
 
-1. Organisasi Komputer berkaitan erat dengan unit-unit operasional. Contohnya teknologi hardware, perangkat antarmuka, teknologi 
-    memori, sistem memori, dan sinyal-sinyal kontrol.
-    Arsitektur Komputer berkaitan dengan atribut-atribut sistem komputer yang terkait dengan seorang programmer. Contohnya set 
-    instruksi, aritmetika yg digunakan, teknik pengalamatan, dan mekanisme I/O.
+1. * Organisasi Komputer berkaitan erat dengan unit-unit operasional. Contohnya teknologi hardware, perangkat antarmuka, teknologi 
+     memori, sistem memori, dan sinyal-sinyal kontrol.
+   * Arsitektur Komputer berkaitan dengan atribut-atribut sistem komputer yang terkait dengan seorang programmer. Contohnya set 
+     instruksi, aritmetika yg digunakan, teknik pengalamatan, dan mekanisme I/O.
 
 2. ![Struktur Top Level](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/6aaab79a-0f6d-4755-b462-2df1298e2d90)
 * Central Processing Unit(CPU)
