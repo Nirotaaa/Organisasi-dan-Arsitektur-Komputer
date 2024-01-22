@@ -8,6 +8,7 @@
  Operasi-Operasi Komputer
 
 
+
 1.
 
 * Organisasi Komputer berkaitan erat dengan unit-unit operasional. Contohnya teknologi hardware, perangkat antarmuka, teknologi 
@@ -44,29 +45,29 @@
 
 4.
 
-Operasi 1
+ Operasi 1
 
-Fungsi operasi pemindahan data.
-Contohnya keyboard ke monitor.    
-![Operasi 1 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/eeeb57fe-3729-4884-aaae-d061f5e2597b)
+ Fungsi operasi pemindahan data.
+ Contohnya keyboard ke monitor.    
+ ![Operasi 1 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/eeeb57fe-3729-4884-aaae-d061f5e2597b)
 
-Operasi 2
+ Operasi 2
 
-Fungsi operasi penyimpanan data.
-Contohnya internet download to disk.
-![Operasi 2 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/13f2aaf8-20a3-4fef-8072-2a624e846c2e)
+ Fungsi operasi penyimpanan data.
+ Contohnya internet download to disk.
+ ![Operasi 2 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/13f2aaf8-20a3-4fef-8072-2a624e846c2e)
 
-Operasi 3
+ Operasi 3
 
-Proses dari/ke unit penyimpanan.
-Contohnya updating bank statement.
-![Operasi 3 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/f0a1c83a-2e09-463b-8131-91240168507f)
+ Proses dari/ke unit penyimpanan.
+ Contohnya updating bank statement.
+ ![Operasi 3 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/f0a1c83a-2e09-463b-8131-91240168507f)
 
-Operasi 4
+ Operasi 4
 
-Proses dari unit penyimpanan ke I/O.
-Contohnya printing a bank statement
-![Operasi 4 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/d4173acf-2acd-427d-be69-308e9cf3cd1c)
+ Proses dari unit penyimpanan ke I/O.
+ Contohnya printing a bank statement
+ ![Operasi 4 drawio](https://github.com/Nirotaaa/Organisasi-dan-Arsitektur-Komputer/assets/148736906/d4173acf-2acd-427d-be69-308e9cf3cd1c)
 
 
 
