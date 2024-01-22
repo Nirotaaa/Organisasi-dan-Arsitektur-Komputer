@@ -4,6 +4,8 @@
 3. Struktur Central Processing Unit
 4. Operasi-Operasi Komputer
 
+
+
 1. Organisasi Komputer berkaitan erat dengan unit-unit operasional. Contohnya teknologi hardware, perangkat antarmuka, teknologi 
     memori, sistem memori, dan sinyal-sinyal kontrol.
     Arsitektur Komputer berkaitan dengan atribut-atribut sistem komputer yang terkait dengan seorang programmer. Contohnya set 
