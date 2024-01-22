@@ -4,8 +4,6 @@
 3. Struktur Central Processing Unit
 4. Operasi-Operasi Komputer
 
-
-
 1.
 =
 * Organisasi Komputer berkaitan erat dengan unit-unit operasional. Contohnya teknologi hardware, perangkat antarmuka, teknologi 
